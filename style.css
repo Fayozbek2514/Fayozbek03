@@ -1,0 +1,253 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* header */
+
+header{
+    background-color:#FFFFFF;
+    width: 1600px;
+    height: 60px;
+    box-shadow: 2px 2px 10px black;
+}
+header div img{
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+header div a{
+    color: black;
+    position: relative;
+    left: 350px;
+    bottom: 30px;
+    margin: 0 20px;
+}
+.button1 {
+    background-color:#fff;
+    width: 100px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 980px;
+    bottom: 55px;
+}
+.button2 {
+    color: #fff;
+    background-color:black;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 1000px;
+    bottom: 55px;
+}
+
+/* main */
+
+main .section1 .div1 h1{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+main .section1 .div1 p{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+main .section1 .div1 h4{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+main .section1 .div1 .button3{
+    color: #fff;
+    background-color: black;
+    width: 110px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+
+main .section1 .div2 img {
+    position: relative;
+    left: 600px;
+    bottom: 250px;
+}
+
+main .section2 .div3 img{
+    position: relative;
+    left: 50px;
+    bottom: 100px;
+}
+main .section2 .div4 h1{
+    position: relative;
+    left: 750px;
+    bottom: 400px;
+}
+main .section2 .div4 p{
+    position: relative;
+    left: 750px;
+    bottom: 380px;
+}
+
+main .section3 h1{
+    position: relative;
+    left: 100px;
+    bottom: 150px;
+}
+main .section3 .div5 {
+    position: relative;
+    left: 100px;
+    bottom: 50px;
+}   
+main .section3 .div6 {
+    position: relative;
+    left: 500px;
+    bottom: 350px;
+}   
+main .section3 .div7 {  
+    position: relative;
+    left: 900px;
+    bottom: 640px;
+}   
+main .section3 .button4{
+    background-color:#F7B2B7;
+    width: 180px;
+    height: 50px;
+    border-radius: 40px;
+    position: relative;
+    left: 100px;
+    bottom: 600px;  
+}
+
+
+main .section4{
+    background-color:#FDECED;
+    width: 1600px;
+    height: 500px;
+    position: relative;
+    bottom: 500px;
+}
+main .section4 h1{
+    position: relative;
+    left: 100px;
+}
+main .section4 .div8 {
+    position: relative;
+    left: 100px;
+}
+main .section4 .div9 {
+    position: relative;
+    left: 500px;
+    bottom: 370px;
+}
+main .section4 .div10 {  
+    position: relative;
+    left: 900px;
+    bottom: 720px;
+} 
+
+
+main .section5 .div11 h1{
+    font-size: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 250px;
+}
+main .section5 .div11 p{
+    position: relative;
+    left: 100px;
+    bottom: 250px;
+}
+main .section5 .div11 button{
+    background-color: #F7B2B7;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    position: relative;
+    left: 100px;
+    bottom: 230px;
+}
+main .section5 .div12 img{
+    position: relative;
+    left: 700px;
+    bottom: 600px;
+}
+
+
+footer{
+    background-color: #302E3F;
+    width: 1600px;
+    height: 400px;
+    position: relative;
+    bottom: 550px;
+}
+
+footer .div13 img{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    left: 100px;
+    top: 50px;
+}
+footer .div13 h1{
+    color: #fff;
+    font: 10px;
+    position: relative;
+    left: 175px;
+    bottom: 17px;
+}
+footer .div14 h3{
+    color: #fff;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+footer .div14 p{
+    color: #C5E9EA;
+    position: relative;
+    left: 100px;
+    top: 20px;
+}
+footer .div15{
+    position: relative;
+    left: 340px;
+    bottom: 60px;
+}
+footer .div15 h3{
+    color: #fff;
+}
+footer .div15 p{
+    color: #C5E9EA;
+}
+footer h3{
+    color: #fff;
+}
+footer p{
+    color: #C5E9EA;
+}
+footer .div16{
+    position: relative;
+    left: 560px;
+    bottom: 175px;
+}
+footer .div17{
+    position: relative;
+    left: 780px;
+    bottom: 290px;   
+}
+footer .div18{
+    position: relative;
+    left: 980px;
+    bottom: 405px;
+}
+footer .div19{
+    position: relative;
+    left: 100px;
+    bottom: 350px;
+    display: flex;
+    gap: 50px;
+}
